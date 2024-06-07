@@ -7,7 +7,7 @@ Summary:        Set two different backgrounds for each monitor on GNOME
 Group:          System
 License:        GPL-3.0-or-later
 URL:            https://gitlab.com/gabmus/HydraPaper
-Source0:        %{url}/-/archive/%{version}/HydraPaper-%{version}.tar.gz
+Source0:        %{url}/-/archive/%{version}/HydraPaper-%{version}.tar.bz2
 BuildArch:      noarch
 
 BuildRequires:  intltool
