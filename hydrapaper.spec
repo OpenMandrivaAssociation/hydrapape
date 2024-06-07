@@ -14,6 +14,7 @@ BuildRequires:  intltool
 BuildRequires:  appstream-util
 BuildRequires:  meson >= 0.58.0
 BuildRequires:  python-devel
+BuildRequires:  python-gi
 BuildRequires:  pkgconfig(blueprint-compiler)
 BuildRequires:  pkgconfig(dbus-1)
 BuildRequires:  pkgconfig(gobject-introspection-1.0)
