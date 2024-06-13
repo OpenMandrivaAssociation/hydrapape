@@ -64,6 +64,6 @@ present.
 %{_datadir}/dbus-1/services/*.service
 %{_datadir}/glib-2.0/schemas/*.gschema.xml
 %{_datadir}/icons/hicolor/*/*/*.svg
-%{_mandir}/man1/*.1*
+#{_mandir}/man1/*.1*
 %{_metainfodir}/*.xml
 %{python3_sitelib}/%{name}/
