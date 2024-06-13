@@ -25,7 +25,7 @@ Requires:       dbus-common
 Requires:       glib2
 Requires:       gtk4 >= 4.3.1
 Requires:       hicolor-icon-theme
-Requires:       libadwaita >= 1.0.0
+Requires:       %{_lib}adwaita1_0
 Requires:       python-dbus
 Requires:       python-pillow
 
